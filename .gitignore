@@ -113,3 +113,4 @@ UpgradeLog*.XML
 *.deb
 *.zip
 *.rb
+*.css
